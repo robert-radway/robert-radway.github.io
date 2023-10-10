@@ -8,29 +8,47 @@ redirect_from:
   - /about.html
 ---
 
-# Tathagata Srimani
+# Robert M. Radway
 
-Tathagata Srimani is an incoming assistant professor in the Department of Electrical and Computer Engineering, <a href="https://www.ece.cmu.edu/" style="color:#0645AD;"><b>Carnegie Mellon University</b></a>, Pittsburgh starting January 2024. Currently, he is a postdoctoral scholar in the Department of Electrical Engineering at <a href="https://ee.stanford.edu/" style="color:#0645AD;">Stanford University</a>. Previously, he received the S.M. and the Ph.D. degree in EECS from <a href="https://www.eecs.mit.edu/" style="color:#0645AD;">Massachusetts Institute of Technology</a> in 2018 and 2022 respectively, and the B.Tech degree in E&amp;ECE from <a href="https://www.iitkgp.ac.in/" style="color:#0645AD;">Indian Institute of Technology, Kharagpur</a> in 2016. 
+Robert M. Radway is a candidate in the Electrical Engineering Ph.D. program at Stanford University supervised by Prof. Subhasish Mitra with expected graduation in June 2024. Before Stanford, he received a M.Eng. (advised by Prof. Tomás Palacios) and B.S. in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology. Robert's Ph.D. has been supported through the Stanford Graduate Fellowship (SGF – as a Cadence Systems Design Fellow) and DARPA Three-Dimensional System-on-Chip (3DSoC – a ~$100M program to establish monolithic 3D integration of heterogeneous nanotechnologies in a US foundry). 
 
-His research interests include demonstrations of circuits and systems leveraging new nanotechnologies, heterogeneous and monolithic 3D integration, and technology-architecture co-design. His research results include the first silicon fab-compatible process for complementary Carbon Nanotube FETs (CNFETs) (<a href="https://ieeexplore.ieee.org/abstract/document/8591963" style="color:#0645AD;">IEEE TNANO 2018</a>, <a href="https://pubs.acs.org/doi/full/10.1021/acsnano.8b04208" style="color:#0645AD;">ACS Nano 2018</a>) which enabled the first CNFET RISC-V microprocessor (<a href="https://www.nature.com/articles/s41586:019:1493-8" style="color:#0645AD;">Nature 2019</a>), and the first monolithic 3D system that integrates complementary CNFETs with silicon (<a href="https://ieeexplore.ieee.org/abstract/document/8776514" style="color:#0645AD;">IEEE Symp. VLSI Tech. 2019</a>, _Technology Highlight and Demo Session_). 
+His research interests include new multiplicative scaling approaches for 3D MOSAICs (**M**onolithic, **S**tacked, **A**ssembled **IC**s)demonstrations of circuits and systems leveraging emerging devices, heterogeneous and monolithic 3D integration. His research results include the first silicon fab-compatible process for complementary Carbon Nanotube FETs (CNFETs) (<a href="https://ieeexplore.ieee.org/abstract/document/8591963" style="color:#0645AD;">IEEE TNANO 2018</a>, <a href="https://pubs.acs.org/doi/full/10.1021/acsnano.8b04208" style="color:#0645AD;">ACS Nano 2018</a>) which enabled the first CNFET RISC-V microprocessor (<a href="https://www.nature.com/articles/s41586:019:1493-8" style="color:#0645AD;">Nature 2019</a>), and the first monolithic 3D system that integrates complementary CNFETs with silicon (<a href="https://ieeexplore.ieee.org/abstract/document/8776514" style="color:#0645AD;">IEEE Symp. VLSI Tech. 2019</a>, _Technology Highlight and Demo Session_). 
 
 His work led to the transition of the first CNFET and CNFET monolithic 3D process to multiple industrial “fabs”: Analog Devices (<a href="https://www.nature.com/articles/s41928-020-0419-7" style="color:#0645AD;">Nature Electronics 2020</a>) and SkyWater Foundry (<a href="https://ieeexplore.ieee.org/abstract/document/9265083" style="color:#0645AD;">IEEE Symp. VLSI 2020</a>, _Joint Technology and Circuits Focus Session_ & IEEE Symp. VLSI Tech. 2023, _Technology Focus Session_). He was a recipient of the MIT Presidential Fellowship in 2016 and Morris Joseph Levin Award—best Masterworks (S.M. thesis) presentation at MIT in 2018.
+
+•	Led Development of a Multiplicative Scaling Approach for 3D MOSAICs
+o	Led development of a parameterized application-to-emulation flow to demonstrate Illusion Scaleup via cycle-accurate system emulations. Flow leverages HLS and code-generation flows used to build MINOTAUR, an RRAM-based, Transformer-optimized accelerator SoC to generate parameterized Illusion Systems with variable per-chip capacities and chip-to-chip links. Application compilation uses a power-aware Illusion compiler (in preparation).
+o	Led development of a custom, power-aware Illusion compiler for a multi-chip MINOTAUR system that leveraged fine-grained spatiotemporal power gating on chip to minimize application energy and latency overheads (in preparation).
+o	Led development of Illusion Scaleup theory, finding just linear improvement pathways in on-chip and inter-chip technology were sufficient to match exponential growth in ML application demands when combined with Illusion Systems approach. Posited implementing this scaling through development of 3D MOSAIC (Monolithic, Stacked, Assembled ICs) (IEDM 2021).
+o	Led development of Illusion Systems that provide the illusion of large on-chip memory (e.g., energy and execution time within 5% of a dream single chip). Developed multiple heuristic and exact binary integer programming techniques for ML partitioning on Illusion Systems. Developed custom hardware platform and multi-chip architectural simulations to demonstrate Illusion (Nature Electronics 2021). 
+
+•	Optimized Architectures Leveraging Emerging Devices 
+o	Led physical design, packaging (including custom 16-chip package), and test platform for. Developed spatiotemporally fine-grained power gating for dynamically adjustable (< 1us), energy-proportional RRAM bandwidth (in preparation).
+o	Developed an iso-footprint and iso-capacity approach to 5-10x EDP benefits for 3D ICs (Carbon Nanotube FETs, RRAM and Si CMOS) vs. 2D ICs (RRAM and Si CMOS) (DATE 23).
+o	Developed multi-chip Illusion System, led packaging and test platform development for CHIMERA, a RRAM-based edge AI/ML SoC demonstrating 2.2 TOPS/W peak energy efficiency, edge incremental training, 33us chip wakeup/shutdown, and 6 larger applications with <4% execution time and <5% energy overheads. (Symp. VLSI Circuits 2021 – Joint Focus Session, Best Student Paper Award, JSSC 2022). 
+o	Measured on-chip RRAM IoT microcontroller with >10 battery life and fine-grained temporal power gating (>5,000 faster) vs. comparable embedded flash microcontrollers (ISSCC 2019).
+
+•	Circuits with Emerging Devices – Resistive RAM (RRAM)
+o	Co-developed & measured first iso-footprint, iso-node, iso-performance, iso-reliability CNFET-RRAM vs. Si-RRAM memory cell (Symp.VLSI 2023, Technology Focus Session)
+o	Led design of mixed-technology memory cells and arrays, leveraging RRAM, Oxide Semiconducting FETs and Silicon CMOS (in fabrication).
+o	Led physical design of full-custom RRAM test arrays for 1T-1R and 1T-nR structures that demonstrated up 4-bits-per-cell storage (IEDM 2019, EDL 2021, IEEE TED 2021)
+o	Transferred RRAM technology into SkyWater Foundry as part of the 3DSoC program, developed custom ATE programs to evaluate yield (ISQED 2023).
+
 
 Research Areas
 --------------
 
-* New Nanomaterials and Device Concepts
-* New Logic and Memory Technologies
-* New Packaging and Integration Techniques
-* Nanofabrication Innovation
-* Integrated Micro/Nano Systems
-* Digital VLSI and Computer Systems Architecture
-* Technology-Architecture-Application Co-Design
+* Multiplicative Scaling Systems & Architectures
+* Monolithic 3D, Heterogenous 2.5D and 3D Integration 
+* Advanced Packaging Design and Automation
+* New Heirarchical System EDA and Application Compilation Flows
+* Technology-Optimized Architectures for AI/ML, AR/VR, and the IoT
 
-Prospective Students
+ 
+On The Market
 --------------------
 
-I will be looking for Ph.D. students starting Spring 2024. Please consider applying to <a href="https://www.ece.cmu.edu/admissions/index.html" style="color:#0645AD;">CMU ECE</a>!
+I am on the job market for faculty positions starting during the 2024-2025 academic year. Please reach out if my work is of interest!
  
 
 
