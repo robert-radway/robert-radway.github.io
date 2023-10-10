@@ -53,3 +53,12 @@ Presentations & Posters
 21. **R.M. Radway** and Matthew Lee, “Compute Immersed in Memory: Analytical Performance Models for Multi-Chip Nanosystems”, Robust and Testable Systems Seminar, Stanford, CA, November 2018.  
 22. **R.M. Radway** “Fast Algorithms for Synapse Detection,” SuperUROP Final Presentations, MIT, Cambridge, MA, Apr 2015. 
 23.	**R.M. Radway** “Fast Algorithms for Automated Synapse Detection,” SuperUROP Poster Session, MIT, Cambridge, MA, Dec 2014. 
+
+
+Presentations & Posters
+======
+1.	D. Rich, A. Bartolo, C. Gilardo, B.Q. Le, H. Li, R. Park, **R.M. Radway**, M.M.S. Aly, H.-S.P. Wong, S. Mitra, “Heterogeneous 3D Nano-systems: The N3XT Approach?”. In: Murmann B., Hoefflinger B. (eds) NANO-CHIPS 2030, Springer 2020. 
+
+Master’s Thesis
+======
+1.)	R.M. Radway, “Near junction thermal management of GaN HEMTs via wafer bonding,” Master’s thesis, Massachusetts Institute of Technology, 2017, https://dspace.mit.edu/handle/1721.1/113116.
