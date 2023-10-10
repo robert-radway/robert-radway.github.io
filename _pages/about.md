@@ -26,11 +26,11 @@ Research Areas
   
 Projects
 --------
-***Multiplicative Scaling Approach for 3D MOSAICs**
-  *Leading development of a parameterized application-to-emulation flow to demonstrate Illusion Scaleup via cycle-accurate system emulations. Flow leverages HLS and code-generation flows used to build MINOTAUR, an RRAM-based, Transformer-optimized accelerator SoC to generate parameterized Illusion Systems with variable per-chip capacities and chip-to-chip links. Application compilation uses a power-aware Illusion compiler (in preparation).
-  *Led development of a custom, power-aware Illusion compiler for a multi-chip MINOTAUR system that leveraged fine-grained spatiotemporal power gating on chip to minimize application energy and latency overheads (in preparation).
-  *Led development of Illusion Scaleup theory, finding just linear improvement pathways in on-chip and inter-chip technology were sufficient to match exponential growth in ML application demands when combined with Illusion Systems approach. Posited implementing this scaling through development of 3D MOSAIC (Monolithic, Stacked, Assembled ICs) (IEDM 2021).
-  *Led development of Illusion Systems that provide the illusion of large on-chip memory (e.g., energy and execution time within 5% of a dream single chip). Developed multiple heuristic and exact binary integer programming techniques for ML partitioning on Illusion Systems. Developed custom hardware platform and multi-chip architectural simulations to demonstrate Illusion (Nature Electronics 2021). 
+  ***Multiplicative Scaling Approach for 3D MOSAICs**
+    *Leading development of a parameterized application-to-emulation flow to demonstrate Illusion Scaleup via cycle-accurate system emulations. Flow leverages HLS and code-generation flows used to build MINOTAUR, an RRAM-based, Transformer-optimized accelerator SoC to generate parameterized Illusion Systems with variable per-chip capacities and chip-to-chip links. Application compilation uses a power-aware Illusion compiler (in preparation).
+    *Led development of a custom, power-aware Illusion compiler for a multi-chip MINOTAUR system that leveraged fine-grained spatiotemporal power gating on chip to minimize application energy and latency overheads (in preparation).
+    *Led development of Illusion Scaleup theory, finding just linear improvement pathways in on-chip and inter-chip technology were sufficient to match exponential growth in ML application demands when combined with Illusion Systems approach. Posited implementing this scaling through development of 3D MOSAIC (Monolithic, Stacked, Assembled ICs) (IEDM 2021).
+    *Led development of Illusion Systems that provide the illusion of large on-chip memory (e.g., energy and execution time within 5% of a dream single chip). Developed multiple heuristic and exact binary integer programming techniques for ML partitioning on Illusion Systems. Developed custom hardware platform and multi-chip architectural simulations to demonstrate Illusion (Nature Electronics 2021). 
 
 ***Optimized Architectures Leveraging Emerging Devices** 
   *Led physical design, packaging (including custom 16-chip package), and test platform for MINOTAUR. Developed spatiotemporally fine-grained power gating for dynamically adjustable (< 1us), energy-proportional RRAM bandwidth (in preparation).
