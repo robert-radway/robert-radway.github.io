@@ -115,11 +115,11 @@ Teaching & Outreach
   * Developed and presented a lecture on IC packaging design, processes and advanced 2.5D/3D integration.
 * Undergraduate and Master’s Student Research Mentor: Robust Systems Group (Sep 2018 – Present)
   * Throughout my time at Stanford, I am fortunate to have had the privilege of mentoring several undergraduate and master’s students (including several URM and FLI students) through various research projects here at Stanford, with several contributing to publications.
-  * Stanford Research Experiences for Undergraduates: 3 Mentees	Summers: 2020, 2021, 2022
-  * Co-Term Thesis: 1 Mentee		June 2022
-  * Stanford PURE Program: 1 Mentee		Winter – Spring 2023
+  * Stanford Research Experiences for Undergraduates: 3 Mentees	(Summers 2020, 2021, 2022)
+  * Co-Term Thesis: 1 Mentee (June 2022)
+  * Stanford PURE Program: 1 Mentee (Winter – Spring 2023)
     * Stanford PURE aims to support first-generation and/or low income (FLI) students to provide compensation for their work as research assistants in Stanford CS labs.
-  * Master’s Research Assistants: 6 Mentees		Sep 2018 – Present
+  * Master’s Research Assistants: 6 Mentees (Sep 2018 – Present)
 	
 **Massachusetts Institute of Technology**, Boston, MA
 * Teaching Assistant:6.01 (Median Overall Rating: 7.0/7.0 - Fall 2013, Spring 2016)
