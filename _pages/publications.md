@@ -61,4 +61,4 @@ Presentations & Posters
 
 Master’s Thesis
 ======
-1.)	R.M. Radway, “Near junction thermal management of GaN HEMTs via wafer bonding,” Master’s thesis, Massachusetts Institute of Technology, 2017, https://dspace.mit.edu/handle/1721.1/113116.
+1.	R.M. Radway, “Near junction thermal management of GaN HEMTs via wafer bonding,” Master’s thesis, Massachusetts Institute of Technology, 2017, https://dspace.mit.edu/handle/1721.1/113116.
