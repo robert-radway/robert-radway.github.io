@@ -39,7 +39,7 @@ Projects
   * Measured on-chip RRAM IoT microcontroller with >10x battery life and fine-grained temporal power gating (>5,000x faster) vs. comparable embedded flash microcontrollers (ISSCC 2019).
 
 * **Circuits with Emerging Devices – Resistive RAM (RRAM)**
-  * Co-developed & measured first iso-footprint, iso-node, iso-performance, iso-reliability CNFET-RRAM vs. Si-RRAM memory cell (Symp.VLSI 2023, _Technology Focus Session_)
+  * Co-developed & measured first iso-footprint, iso-node, iso-performance, iso-reliability CNFET-RRAM vs. Si-RRAM memory cell (Symp. VLSI 2023, _Technology Focus Session_)
   * Led design of mixed-technology memory cells and arrays, leveraging RRAM, Oxide Semiconducting FETs and Silicon CMOS (in fabrication).
   * Led physical design of full-custom RRAM test arrays for 1T-1R and 1T-nR structures that demonstrated up 4-bits-per-cell storage (IEDM 2019, EDL 2021, IEEE TED 2021)
   * Transferred RRAM technology into SkyWater Foundry as part of the 3DSoC program, developed custom ATE programs to evaluate yield (ISQED 2023).
