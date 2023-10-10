@@ -10,11 +10,22 @@ redirect_from:
 
 # Robert M. Radway
 
-Robert M. Radway is a candidate in the Electrical Engineering Ph.D. program at Stanford University supervised by Prof. Subhasish Mitra with expected graduation in June 2024. Before Stanford, he received a M.Eng. (advised by Prof. Tomás Palacios) and B.S. in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology. Robert's Ph.D. has been supported through the Stanford Graduate Fellowship (SGF – as a Cadence Systems Design Fellow) and DARPA Three-Dimensional System-on-Chip (3DSoC – a ~$100M program to establish monolithic 3D integration of heterogeneous nanotechnologies in a US foundry). 
+##**Bio**
+------------
+Robert M. Radway is a candidate in the Electrical Engineering Ph.D. program at Stanford University supervised by Prof. Subhasish Mitra with expected graduation in June 2024. Before Stanford, he received a M.Eng. (advised by Prof. Tomás Palacios) and B.S. in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology. Robert's Ph.D. has been supported through the Stanford Graduate Fellowship (SGF – as a Cadence Systems Design Fellow) and DARPA Three-Dimensional System-on-Chip (3DSoC – a ~$100M program to establish monolithic 3D integration of heterogeneous nanotechnologies in a US foundry). His research interests include new multiplicative scaling approaches for 3D MOSAICs (**M**onolithic, **S**tacked, **A**ssembled **IC**s), demonstrations of circuits and systems leveraging emerging devices, and heterogeneous 2.5D/3D and monolithic 3D integration. 
 
-His research interests include new multiplicative scaling approaches for 3D MOSAICs (**M**onolithic, **S**tacked, **A**ssembled **IC**s), demonstrations of circuits and systems leveraging emerging devices, and heterogeneous 2.5D/3D and monolithic 3D integration. His research results include the first silicon fab-compatible process for complementary Carbon Nanotube FETs (CNFETs) (<a href="https://ieeexplore.ieee.org/abstract/document/8591963" style="color:#0645AD;">IEEE TNANO 2018</a>, <a href="https://pubs.acs.org/doi/full/10.1021/acsnano.8b04208" style="color:#0645AD;">ACS Nano 2018</a>) which enabled the first CNFET RISC-V microprocessor (<a href="https://www.nature.com/articles/s41586:019:1493-8" style="color:#0645AD;">Nature 2019</a>), and the first monolithic 3D system that integrates complementary CNFETs with silicon (<a href="https://ieeexplore.ieee.org/abstract/document/8776514" style="color:#0645AD;">IEEE Symp. VLSI Tech. 2019</a>, _Technology Highlight and Demo Session_). 
 
-•	Led Development of a Multiplicative Scaling Approach for 3D MOSAICs
+##Research Areas
+--------------
+
+* Multiplicative Scaling Systems & Architectures
+* Monolithic 3D, Heterogenous 2.5D and 3D Integration 
+* Advanced Packaging Design and Automation
+* New Heirarchical System EDA and Application Compilation Flows
+* Technology-Optimized Architectures for AI/ML, AR/VR, and the IoT
+  
+## Projects
+  Multiplicative Scaling Approach for 3D MOSAICs
 o	Led development of a parameterized application-to-emulation flow to demonstrate Illusion Scaleup via cycle-accurate system emulations. Flow leverages HLS and code-generation flows used to build MINOTAUR, an RRAM-based, Transformer-optimized accelerator SoC to generate parameterized Illusion Systems with variable per-chip capacities and chip-to-chip links. Application compilation uses a power-aware Illusion compiler (in preparation).
 o	Led development of a custom, power-aware Illusion compiler for a multi-chip MINOTAUR system that leveraged fine-grained spatiotemporal power gating on chip to minimize application energy and latency overheads (in preparation).
 o	Led development of Illusion Scaleup theory, finding just linear improvement pathways in on-chip and inter-chip technology were sufficient to match exponential growth in ML application demands when combined with Illusion Systems approach. Posited implementing this scaling through development of 3D MOSAIC (Monolithic, Stacked, Assembled ICs) (IEDM 2021).
@@ -33,18 +44,11 @@ o	Led physical design of full-custom RRAM test arrays for 1T-1R and 1T-nR struct
 o	Transferred RRAM technology into SkyWater Foundry as part of the 3DSoC program, developed custom ATE programs to evaluate yield (ISQED 2023).
 
 
-Research Areas
---------------
 
-* Multiplicative Scaling Systems & Architectures
-* Monolithic 3D, Heterogenous 2.5D and 3D Integration 
-* Advanced Packaging Design and Automation
-* New Heirarchical System EDA and Application Compilation Flows
-* Technology-Optimized Architectures for AI/ML, AR/VR, and the IoT
 
  
 On The Market
---------------------
+-------------
 
 I am on the job market for faculty positions starting during the 2024-2025 academic year. Please reach out if my work is of interest!
  
