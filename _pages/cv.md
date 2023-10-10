@@ -67,9 +67,9 @@ Work Experience
 * Built several exotic options pricing models.
 
 **Basis Technology, Inc.**, Software Engineering Intern, Cambridge, MA, (May 2014 – August 2014)
-•	Worked with R&D team to develop software library to detect language of query-like short strings. 
-•	Ran tests and error analyses on multiple methods to develop detection algorithm and feature functions. 
-•	Built multi-layered system for 25 languages that increased testing accuracy by 50%.
+* Worked with R&D team to develop software library to detect language of query-like short strings. 
+* Ran tests and error analyses on multiple methods to develop detection algorithm and feature functions. 
+* Built multi-layered system for 25 languages that increased testing accuracy by 50%.
 
 **Appian Corporation**, Software Engineering Intern, Reston, VA, (January 2014)
 * Created type selector API for use in the Appian Interface Designer data pane.
