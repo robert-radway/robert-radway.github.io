@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tathagata Srimani"
+title                    : "Robert M. Radway"
 title_separator          : "-"
-name                     : &name "Tathagata Srimani"
+name                     : &name "Robert M. Radway"
 description              : &description
-url                      : https://tsrimani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://robert-radway.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tsrimani.github.io"
+repository               : "robert-radway.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tathagata Srimani" 
+  name             : "Robert M. Radway" 
   avatar           : "profile.png"
-  bio              : "Incoming Assistant Professor, Electrical and Computer Engineering, Carnegie Mellon University"
+  bio              : "Ph.D. Candidate in Electrical Engineering"
   location         : 
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=NVcyQ3wAAAAJ&hl=en"
-  email            : "tsrimani@andrew.cmu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=Ec_V2HwAAAAJ&hl=en"
+  email            : "radway@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tsrimani"
+  github           : "robert-radway"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "tathagata-srimani-85723458"
+  linkedin         : #"tathagata-srimani-85723458"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Tathagata02" #"replacethistwitterhandle"
+  twitter          : #"Tathagata02" #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
