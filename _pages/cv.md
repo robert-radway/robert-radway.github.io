@@ -57,26 +57,23 @@ Work Experience
 * Executed trades and specialty transactions on above theses.
 * Managed intern and rotational analyst projects to develop analytical infrastructure for team.
 
-**D. E. Shaw & Co.**, Quantitative Trading Intern,New York, NY, (May 2015 – August 2015)
+**D. E. Shaw & Co.**, Quantitative Trading Intern, New York, NY, (May 2015 – August 2015)
 * Worked on ABS desk to develop statistical and machine learning models of credit risk transfer deals.
 * Ran significance and dropout tests on multiple parameters to determine optimal model inputs.
 * Built code framework to implement model for day-to-day trading use.
 
-Morgan Stanley		New York, NY
-Trading Intern		January 2015
-•	Shadowed several equity options trading desks, including Automated Market Making, Exotic Options, Single Name Options, and Index Options.
-•	Built several exotic options pricing models.
+**Morgan Stanley**, Trading Intern, New York, NY, (January 2015)
+* Shadowed several equity options trading desks, including Automated Market Making, Exotic Options, Single Name Options, and Index Options.
+* Built several exotic options pricing models.
 
-Basis Technology, Inc.		Cambridge, MA
-Software Engineering Intern 		May 2014 – August 2014
+**Basis Technology, Inc.**, Software Engineering Intern, Cambridge, MA, (May 2014 – August 2014)
 •	Worked with R&D team to develop software library to detect language of query-like short strings. 
 •	Ran tests and error analyses on multiple methods to develop detection algorithm and feature functions. 
 •	Built multi-layered system for 25 languages that increased testing accuracy by 50%.
 
-Appian Corporation		Reston, VA
-Software Engineering Intern 		January 2014
-•	Created type selector API for use in the Appian Interface Designer data pane. 
-•	Integrate API into existing proprietary expression language. 
+**Appian Corporation**, Software Engineering Intern, Reston, VA, (January 2014)
+* Created type selector API for use in the Appian Interface Designer data pane.
+* Integrate API into existing proprietary expression language. 
 
   
 Service
@@ -88,16 +85,28 @@ Service
   * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
   * IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)
   * IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
-
-Outreach
-======
-<b>EECS Graduate Application Assistance Program (GAAP) mentor</b>, MIT (2020 - 2021) 
-  * A program established to help potential PhD applicants from underrepresented minorities
-  * Mentored 9 students from 5 different countries
     
-<b>Member of the National Service Scheme</b>, IIT Kharagpur (2012-2014)
-  * Substitute high-school English instructor in Balarampur, a remote village with economic constraints
-  * Ran a yearly food and clothes collection and distribution program 
+Stanford Electronic Systems Technology Seminar: Member, Organizing Committee	Jan 2021 – June 2022
+IEEE & SSCS Graduate Student Member
 
+TTeaching & Outreach
+======
+**Stanford University**, Stanford, CA
+* Guest Lecturer: EE 271 (Winter 2022, Winter 2023)
+  * EE 271: Design Projects in VLSI Systems I is a graduate course covering EDA flows from RTL-to-GDS.
+  * Developed and presented a lecture on IC packaging design, processes and advanced 2.5D/3D integration.
+* Undergraduate and Master’s Student Research Mentor: Robust Systems Group (Sep 2018 – Present)
+  * Throughout my time at Stanford, I am fortunate to have had the privilege of mentoring several undergraduate and master’s students (including several URM and FLI students) through various research projects here at Stanford, with several contributing to publications.
+  * Stanford Research Experiences for Undergraduates: 3 Mentees	Summers: 2020, 2021, 2022
+  * Co-Term Thesis: 1 Mentee		June 2022
+  * Stanford PURE Program: 1 Mentee		Winter – Spring 2023
+    * Stanford PURE aims to support first-generation and/or low income (FLI) students to provide compensation for their work as research assistants in Stanford CS labs.
+  * Master’s Research Assistants: 6 Mentees		Sep 2018 – Present
+	
+**Massachusetts Institute of Technology**, Boston, MA
+* Teaching Assistant:6.01 (Median Overall Rating: 7.0/7.0 - Fall 2013, Spring 2016)
+  * 6.01: Introduction to Electrical Engineering and Computer Science I covered topics in electronics, programming, algorithms, and control theory.
+  * Assisted with office hours, laboratory sessions, review sessions.
+  * Developed and tested lab assignments, exam questions, and homework.
 
   
