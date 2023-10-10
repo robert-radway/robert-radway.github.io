@@ -104,7 +104,8 @@ Service
   * IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)
   * IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
     
-Stanford Electronic Systems Technology Seminar: Member, Organizing Committee	Jan 2021 – June 2022
+Stanford Electronic Systems Technology Seminar: Member, Organizing Committee (Jan 2021 – June 2022)
+
 IEEE & SSCS Graduate Student Member
 
 Teaching & Outreach
