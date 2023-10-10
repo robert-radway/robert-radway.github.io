@@ -89,7 +89,7 @@ Service
 Stanford Electronic Systems Technology Seminar: Member, Organizing Committee	Jan 2021 – June 2022
 IEEE & SSCS Graduate Student Member
 
-TTeaching & Outreach
+Teaching & Outreach
 ======
 **Stanford University**, Stanford, CA
 * Guest Lecturer: EE 271 (Winter 2022, Winter 2023)
@@ -109,4 +109,15 @@ TTeaching & Outreach
   * Assisted with office hours, laboratory sessions, review sessions.
   * Developed and tested lab assignments, exam questions, and homework.
 
-  
+Honors & Awards
+======
+* Cadence Design Systems Fellow (Stanford Graduate Fellowship - SGF - Fall 2019 – Summer 2023)
+* Stanford SystemX FMA Fellow (Fall 2019 – Present)
+* Stanford Electrical Engineering Department Fellowship	(Fall 2018 – Summer 2019)
+* SuperUROP: Certificate in Advanced Undergraduate Research in Computer Science (May 2015)
+* MIT EECS – Mason Undergraduate Research and Innovation Scholar (Aug 2014 – May 2015)
+* Intel Science Talent Search Semifinalist (Feb 2012)
+* Siemens Competition Semifinalist (Oct 2011)
+* National Merit Scholarship Finalist (Sep 2011)
+* Omron Foundation National Merit Scholarship (Sep 2011)
+
