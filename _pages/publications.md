@@ -5,45 +5,51 @@ permalink: /publications/
 author_profile: true
 ---
 
-Journals and Conferences
-======
-<b>Google Scholar</b> – <a href="https://scholar.google.com/citations?user=NVcyQ3wAAAAJ&hl=en&oi=ao" style="color:#0645AD;">https://scholar.google.com/citations?user=NVcyQ3wAAAAJ&hl=en&oi=ao</a>
- 
+Journals Publications
+====== 
+1.	L. Yang, **R.M. Radway**, Y.-H. Chen, T.F. Wu, H. Liu, E. Ansari, V. Chandra, S. Mitra, E. Beigné, “Three-Dimensional Stacked Neural Network Accelerator Architectures for AR/VR Applications,” in IEEE Micro, vol. 42, no. 6, pp. 116-124, 1 Nov.-Dec. 2022.
+2.	**Equally Contributing**: K. Prabhu*, A. Gural*, Z. F. Khan*, R.M. Radway*, M. Giordano, K. Koul, R. Doshi, J.W. Kustin, T. Liu, M.-F. Chang, G. Lallement, B. Murmann, S. Mitra, P. Raina., “CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2Mbyte On-Chip Foundry Resistive RAM for Efficient Training and Inference,” in IEEE Journal of Solid-State Circuits (JSSC), vol. 57., no. 4, pp. 1013-1026, April 2022.
+3.	B.Q. Le, A. Levy, T.F. Wu, **R.M. Radway**, E.R. Hsieh, X. Zheng, M. Nelson, P. Raina, H.-S.P. Wong, S. Wong, S. Mitra, “RADAR: A Fast and Energy-Efficient Programming Technique for Multiple Bits-Per-Cell RRAM Arrays,” in IEEE Transactions on Electron Devices, vol. 68, no. 9, pp. 4397-4403, July 2021. 
+4.	E.R. Hsieh, X. Zheng, B. Q. Le, Y. C. R.M. Radway, M. Nelson, H.-S.P. Wong, S. Mitra and S. Wong, "Four-Bits-Per-Memory One-Transistor-and-Eight-Resistive-Random-Access-Memory (1T8R) Array," in IEEE Electron Device Letters, vol. 42, no. 3, pp. 335-338, March 2021.
+5.	Robert M. Radway, Andrew Bartolo, Paul C. Jolly, Zainab F. Khan, Binh Q. Le, Pulkit Tandon, Tony F. Wu, Yunfeng Xin, Elisa Vianello, Pascal Vivet, Etienne Nowak, H.-S. Philip Wong, Mohamed M. Sabry Aly, Edith Beigne, Mary Wootters and Subhasish Mitra, “Illusion of large on-chip memory by networked computing chips for neural network inference,” in Nature Electronics, 4, 71-80 (2021). 
 
-* Srimani, T., B. Manna, A.K. Mukhopadhyay, K. Roy, and M. Sharad, "Robust and high sensitivity biosensor using injection locked spin torque nano-oscillators." In 2016 IEEE DRC, pp. 1-2
-* Srimani, T., G. Hills, M.D. Bishop et. al. "Negative capacitance carbon nanotube FETs." IEEE EDL, (2017), 39(2), pp. 304-307
-* Lau, C., T. Srimani, M. D. Bishop, G. Hills, and M. M. Shulaker. "Tunable n-type doping of carbon nanotubes through engineered atomic layer deposition HfOX films." ACS nano, (2018), 12(11), pp. 10924-10931
-* Srimani, T., G. Hills, M. D. Bishop, and M.M. Shulaker. "30-nm Contacted Gate Pitch Back-Gate Carbon Nanotube FETs for Sub-3-nm Nodes." IEEE TNANO (2018), 18, pp. 132-138
-* Srimani, T., G. Hills, X. Zhao, D. Antoniadis, J. A. del Alamo, and M. M. Shulaker. "Asymmetric gating for reducing leakage current in carbon nanotube field-effect transistors." APL, (2019), 115(6), pp. 063107
-* Srimani, T. #, G. Hills, C. Lau, and M. Shulaker. "Monolithic Three-Dimensional Imaging System: Carbon Nanotube Computing Circuitry Integrated Directly Over Silicon Imager." (Technology Highlight + Demo Session, finalist for best student paper), IEEE Symp. on VLSI Tech., (2019), pp. T24-T25
-* Hills, G., C. Lau, A. Wright, S. Fuller, M. D. Bishop, T. Srimani, P. Kanhaiya et al. "Modern microprocessor built from complementary carbon nanotube transistors." Nature, (2019), 572(7771), pp. 595-602
-* Bishop, M. D., G. Hills, T. Srimani, C. Lau, et al. "Fabrication of carbon nanotube field-effect transistors in commercial silicon manufacturing facilities." Nature Electronics, (2020), 3(8), pp. 492-501
-* Hills, G., C. Lau, T. Srimani, M.D. Bishop, P. Kanhaiya, R. Ho, A. Amer, and M. M. Shulaker. "Advances in Carbon Nanotube Technologies: From Transistors to a RISC-V Microprocessor."  ISPD, (2020), pp. 33-38
-* Lau, C., G. Hills, M. D. Bishop, T. Srimani, R. Ho, P. Kanhaiya, A. Yu, A. Amer, M. Chao, and M. M. Shulaker. "Manufacturing Methodology for Carbon Nanotube Electronics."  IEEE VLSI-TSA, (2020), pp. 134-135
-* Srimani, T.^, G. Hills^, M. Bishop, C. Lau et al. “Heterogeneous Integration of BEOL Logic and Memory in a Commercial Foundry: Multi-tier Complementary Carbon Nanotube Logic and Resistive RAM at a 130 nm node” (Joint Focus in Technology and Circuits), IEEE Symp. on VLSI Technology and Circuits, (2020), pp. 1-2
-* Yu, A.C., T. Srimani, et al. " Foundry Integration of Carbon Nanotube FETs at the 90 nm Node with New Lift-off-free Process." IEEE EDL (2022), 43(3), pp. 486-489
-* Srimani, T. #^, Yu, A.C.^, et al. " Lift-off-Free Complementary Carbon Nanotube FETs Fabricated with Conventional Processing in a Silicon Foundry" IEEE VLSI-TSA, (2022), pp. 1-2
-* Srimani, T.^, Ding, J.^, Yu, A.C.^, et al. “Comprehensive Study on High Purity Semiconducting Carbon Nanotube Extraction” Advanced Electronic Materials (2022)
-* Srimani, T. #^, Radway, R.^, Kim, J.^, Prabhu K., et al. “Ultra-dense 3D Physical Design enables New Architectural Design Points with Large Benefits” 2023 ACM/IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE).
-* T. Srimani^, A.C. Yu^, R. Radway^, D. Rich, M. Nelson, S. Wong, D. Murphy, S. Fuller, G. Hills, S. Mitra and M. Shulaker, “Foundry Monolithic 3D BEOL Transistor + Memory Stack: Iso-performance and Iso-footprint BEOL Carbon Nanotube FET+RRAM vs. FEOL Silicon FET+RRAM,” IEEE Symp. VLSI Technology, June 2023 (Technology Focus Session).
-* Shulaker, M., T. Srimani, S. Fuller, Y. Stein, and D. Murphy. "Back-gate field-effect transistors and methods for making the same." U.S. Patent 11,626,486 issued April 11, 2023.
+**Conference Publications and Abstracts**
+====== 
+1.	_To Appear_: T. Srimani, A. Bechdolt, S. Choi, C. Gilardi, A. Kasperovich, S. Li, Q. Lin, M. Malakoutian, P. McEwen, R. M. Radway, D. Rich, A. C. Yu, S. Fuller, S. Achour, S. Chowdhury, H.-S. P. Wong, M. Shulaker, S. Mitra, “N3XT 3D Technology Foundations and Their Lab-to-Fab: Omni 3D Logic, Logic+Memory Ultra-Dense 3D, 3D Thermal Scaffolding,” 2023 IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, USA, 2023.
+2.	_To Appear_: A. Wei, A. Levy, P.(L.) Yi, **R.M. Radway**, P. Raina, S. Mitra, S. Achour, “PBA: Percentile-Based Level Allocation for Multiple-Bits-Per-Cell RRAM,” 2023 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, USA, 2023. 
+3.	D. Rich, A. Kasperovich, M. Malakoutian, R. M. Radway, S. Hagiwara, T. Yoshikawa, S. Chowdhury, S. Mitra, “Thermal Scaffolding for Ultra-Dense 3D Integrated Circuits," 2023 60th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2023, pp. 1-6.
+4.	**Equally Contributing**: T. Srimani*, A.C. Yu*, **R.M. Radway***, D.T. Rich, M. Nelson, S. Wong, D. Murphy, S. Fuller, G. Hills, S. Mitra, M.M. Shulaker, “Foundry Monolithic 3D BEOL Transistor + Memory Stack: Iso-performance and Iso-footprint BEOL Carbon Nanotube FET+RRAM vs. FEOL Silicon FET+RRAM,” 2023 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits), Kyoto, Japan, 2023, pp. 1-2.
+5.	**Equally Contributing**: T. Srimani*, **R.M. Radway***, J. Kim*, K. Prabhu, D. Rich, C. Gilardi, P. Raina, M. Shulaker, S.K. Lim, S. Mitra, “Ultra-Dense 3D Physical Design Unlocks New Architectural Design Points with Large Benefits,” 2023 Design, Automation & Test in Europe Conference & Exhibition (DATE), Antwerp, Belgium, 2023, pp. 1-6.
+6.	L.R. Upton, G. Lallement, M. D Scott, J. Taylor, **R.M. Radway**, D. Rich, M. Nelson, S. Mitra, B. Murmann., “Testbench on a Chip: A Yield Test Vehicle for Resistive Memory Devices,” 2023 24th International Symposium on Quality Electronic Design (ISQED), San Francisco, CA, USA, 2023, pp. 1-7.
+7.	**R.M. Radway**, K. Sethi, W.-C. Chen, J. Kwon, S. Liu, T.F. Wu, E. Beigne, M.M. Shulaker, H.-S.P. Wong, S. Mitra, “The Future of Hardware Technologies for Computing: N3XT 3D MOSIAC, Illusion Scaleup, Co-Design (Invited),” IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, Dec. 2021.
+8.	**Best Student Paper Award – Equally Contributing**: M. Giordano*,K. Prabhu*, K. Koul*, **R.M. Radway***, A. Gural*, R. Doshi*, Z.F. Khan, J.W. Kustin, T. Liu, G.B. Lopes, V. Turbiner, W.-S. Khwa, Y.-D. Chih, M.-F. Chang, G. Lallement*, B. Murmann, S. Mitra, P. Raina, “CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2Mbyte On-Chip Foundry Resistive RAM for Efficient Training and Inference,” Symposium on VLSI Circuits, pg. 1-2, June 2021.
+9.	E.R. Hsieh, M. Giordano, B. Hodson, A. Levy, S.K. Osekowsky, **R.M. Radway**, Y.C. Shih, W. Wan, T.F. Wu, X. Zheng, M. Nelson, B.Q. Le, H.-S.P. Wong, S. Mitra and S. Wong, “High-Density Multiple Bits-per-Cell 1T4R RRAM Array with Gradual SET/RESET and its Effectiveness for Deep Learning,” IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, Dec. 2019.
+10.	T.F. Wu, B.Q. Le, **R.M. Radway**, A. Bartolo, W. Hwang, S. Jeong, H. Li, P. Tandon, E. Vianello, P. Vivet, E. Nowak, M.K. Wootters, H.-S.P. Wong, M.M.S. Aly, E. Beigne, S. Mitra, “A 43pJ/Cycle Non-Volatile Microcontroller with 4.7μs Shutdown/Wake-up Integrating 2.3-bit/Cell Resistive RAM and Resilience Techniques,” 2019 IEEE International Solid- State Circuits Conference - (ISSCC), San Francisco, CA, USA, 2019, pp. 226-228.
+11.	**R. M. Radway**, K. R. Bagnall, E. N. Wang, T. Palacios.  “Near Junction Thermal Management of GaN-on-SiC HEMTs via Wafer Bonding,” 2016 International Workshop on Nitride Semiconductors (IWN), Orlando, FL, USA, 2016, pp. 218.
 
-Corresponding author: #; Equal Contribution: ^
   
-Invited Articles & Presentations
+Presentations & Posters
 ======
-* Srimani, T. “NanoSystems: Lab to Fab” IEEE IISc Bangalore, Bangalore, India (July 2023)
-* Srimani, T. “NanoSystems: Lab to Fab” IEEE Leuven/MICAS, KU Leuven (April 2023)
-* Srimani, T., M. Shulaker “Talk is Cheap: It Takes Money to Ride the Train” 6.nano seminar series, EECS, MIT (Nov 2022)
-* Srimani, T., R.M. Radway “Foundry Monolithic 3D Technology Enables New Architectural Design Points with Large Benefits” SystemX Fall Conference, Stanford University (Nov 2022)
-* Srimani, T. “NanoSystems: Lab to Fab” ECE Graduate Seminar Series, Carnegie Mellon University (Nov 2022)
-* Srimani, T., R.M. Radway, H.-S.P. Wong, S. Mitra “The Future of Hardware Technologies for Computing: N3XT 3D MOSAIC, Illusion Scaleup, Co-Design” TCVLSI newsletter (May 2022)
-* Srimani, T. “Nanosystems for Energy-Efficient Computing using Carbon Nanotube FETs and Monolithic 3D Integration” (3D Integration Workshop), In 2022 IEEE DATE conference (Mar 2022)
-* Srimani, T. " Commercial Opportunities for RRAM, CNTs, and Monolithic 3D in the US" CICS Meeting, MTL, MIT (Nov 2021)
-* Srimani, T. "Beyond-Silicon Technologies for Beyond-Silicon Applications." CICS Meeting, MTL, MIT (May 2021)
-* Srimani, T. "Establishing Emerging Nanotechnologies to Supplement Silicon CMOS within Commercial Fabs and Foundries." CICS Meeting, MTL, MIT (May 2020)
-* Srimani, T. "Back Gate Transistors for Highly Scaled and Energy Efficient Digital Electronics" (Best Poster), Masterworks, EECS, MIT (Apr 2018)
-* Srimani, T. "Energy-efficient Digital VLSI using Carbon Nanotube Transistors" Department of E&ECE, Indian Institute of Technology, Kharagpur, India (Mar 2018)
-* Srimani, T. "Back Gate Transistors for Highly Scaled and Energy Efficient Digital Electronics" MTL Annual Research Conference, MIT (Feb 2018)
-* Srimani, T. " Beyond silicon technologies and heterogeneous integration" Guest Lecture, 6.374, Analysis and Design of Digital Integrated Circuits, MIT (Nov 2017)
-* Srimani, T., Chen, L., Ma, Y. and Zhou, C., "Electronics and optoelectronics of a novel transition metal dichalcogenide." (poster) Indian National Science Academy, Delhi (Aug 2015)
+1.)	Robert M. Radway, Subhasish Mitra, Roger Howe, “NanoSystems for Abundant Data Computing”, Samsung-Stanford Research Initiative Workshop, Stanford, CA, September 2023.
+2.)	Robert M. Radway, K. Prabhu, Subhasish Mitra, Priyanka Raina, “MINOTAUR: Transformer Edge Inference and Training that Scale Across Single- and Multi-Chip Systems”, TSMC Corporate Research Seminar Series, Virtual, May 2023.
+3.)	Robert M. Radway, Carlo Gilardi, Tathagata Srimani, “Ultra-Dense 3D Physical Design Unlock New Architectural Design Points with Large Benefits”, SLAC Nano/Micro Workshop, Stanford, CA, May 2023.
+4.)	Robert M. Radway, Massimo Giordano, “CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference”, Samsung Metaverse Workshop, San Jose, CA, April 2023. 
+5.)	Robert M. Radway, Tathagata Srimani, “Foundry Monolithic 3D Technology Enables New Architectural Design Points with Large Benefits”, Stanford SystemX Fall Conference, Stanford, CA, November 2022.
+6.)	Robert M. Radway, Fabian Peddinghaus, Arne Symons, “Emulating Illusion Scaleup of 3D MOSAICs”, Robust Systems Group Seminar, Stanford, CA, November 2022.
+7.)	Robert M. Radway, Subhasish Mitra, “Illusion and Illusion Scaleup for 3D MOSAIC”, ACCESS Seminar Series, Virtual, June 2022.
+8.)	Robert M. Radway, Massimo Giordano, “CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference”, Stanford System X Fall Conference, Virtual, November 2021. 
+9.)	Robert M. Radway, Yu-Neng Wang, “The Future of Hardware Technologies for Computing: N3XT 3D MOSAIC and Illusion Scaleup,” Robust Systems Group Seminar, Stanford, CA, November, 2021.
+10.)	Subhasish Mitra, Robert M. Radway, “21st-Century NanoSystems for Abundant-Data Computing”, ACESS Seminar Series, Virtual, June 2021. 
+11.)	Robert M. Radway, “Illusion of Large On-Chip Memory for Neural Network Inference”, SystemX Fall Conference, Stanford, CA, November 2020. 
+12.)	Robert M. Radway, “Illusion of Large On-Chip Memory for Neural Network Inference”, Robust Systems Group Seminar, Stanford, CA, November 2020. 
+13.)	Robert M. Radway, “Illusion of Large On-Chip Memory for Neural Network Inference”, TSMC, Hsinchu, Taiwan, February 2020. 
+14.)	Robert M. Radway, “Creating the Illusion of Large On-Chip Memory”, Robust And Testable Systems Seminar, Stanford, CA, January 2020. 
+15.)	Robert M. Radway, “Illusion of Large On-Chip Memory for Neural Network Inference”, Xilinx, San Jose, CA, November 2019. 
+16.)	Robert M. Radway, “N3XT Heterogenous Integration: From Lab to Fab”, Stanford SystemX Fall Conference, Stanford, CA, November 2019. 
+17.)	Robert M. Radway, “Abundant Data Computing: The N3XT 1,000x”, Google, Mountain View, CA, October 2019.
+18.)	Robert M. Radway, S. Mitra “RRAM Integrated on Silicon CMOS for AI Applications”, Emerging Memory and Artificial Intelligence Workshop, Stanford, CA, August 2019. 
+19.)	Robert M. Radway, Andrew Bartolo “Abundant Data Computing: The N3XT 1,000x”, ARM, San Jose, CA, May 2019.
+20.)	Tony F. Wu, Binh Q. Le, R. M. Radway, et al. “A 43pJ/Cycle Non-Volatile Microcontroller with 4.7μs Shutdown/Wake-up Integrating 2.3-bit/Cell Resistive RAM and Resilience Techniques," Facebook, Menlo Park, CA, April 2018.
+21.)	Robert M. Radway and Matthew Lee, “Compute Immersed in Memory: Analytical Performance Models for Multi-Chip Nanosystems”, Robust and Testable Systems Seminar, Stanford, CA, November 2018.  
+22.)	Robert M. Radway “Fast Algorithms for Synapse Detection,” SuperUROP Final Presentations, MIT, Cambridge, MA, Apr 2015. 
+23.)	Robert M. Radway “Fast Algorithms for Automated Synapse Detection,” SuperUROP Poster Session, MIT, Cambridge, MA, Dec 2014. 
