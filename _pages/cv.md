@@ -33,7 +33,7 @@ Research experience
   * Developed Illusion Scaleup theory, finding linear improvement pathways in on-chip and inter-chip technology were sufficient to match exponential growth in ML application demands over a fixed horizon when combined with the Illusion Systems approach on a 3D MOSAIC (**IEDM ‘21, First Author**).
   * Developed parameterized application-to-emulation flow to demonstrate Illusion Scaleup via cycle-accurate system emulation using HLS and a power-aware Illusion compiler (leveraging fine-grained spatiotemporal power gating on chip) to generate parameterized Illusion Systems with variable per-chip capacities and chip-to-chip links (in preparation).
 * **Technology-Optimized VLSI Systems:** Resistive RAM (RRAM) for edge AI/ML inference and training that scale.
-  * Measured on-chip RRAM IoT microcontroller with >10 battery life and fine-grained temporal power gating (>5,000 faster) vs. comparable embedded flash microcontrollers (ISSCC ‘19).
+  * Measured on-chip RRAM IoT microcontroller with >10x battery life and fine-grained temporal power gating (>5,000x faster) vs. comparable embedded flash microcontrollers (ISSCC ‘19).
   * Developed multi-chip system for CHIMERA, a RRAM-based edge AI/ML SoC with peak 2.2 TOPS/W energy efficiency, edge incremental training, 33us wakeup/shutdown, scaled to 6x larger models with <4% exec. time and <5% energy overheads (**Symp. VLSI Circuits ‘21 – Joint Focus Session, Best Student Paper Award, JSSC ‘22, Equal Contrib.**).
   * Physical design and custom 16-chip system integration of MINOTAUR, an RRAM-based, Transformer-optimized accelerator SoC for inference and training. Developed spatiotemporally fine-grained power gating for dynamically adjustable (< 1us), energy-proportional RRAM bandwidth (in preparation).
 * **New Memories for Monolithic 3D:** Optimized ultra-dense (monolithic) 3D ICs integrating RRAM & CNFETs on silicon.
@@ -45,7 +45,7 @@ Research experience
 
   
 **Meta Reality Labs, Silicon Research Intern**, Sunnyvale, CA, (Jun 2021 - Jan 2022)
-  * Analyzed AR/VR applications via Illusion System approach for multi-chip scalability (IEDM 2021)
+  * Analyzed AR/VR applications via Illusion System approach for multi-chip scalability (**IEDM 2021, First Author**)
   * Developed performance models for AR/VR systems integrated in 3D using TSMC’s SoIC technology.
   * Analyzed design tradeoffs for 3D integrated SRAM memory in AR/VR systems (IEEE Micro 2022).
   * Developed initial exploratory physical design flow to analyze system design choices & performance.
