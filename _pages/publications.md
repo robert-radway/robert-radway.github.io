@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Journals Publications
+Journal Publications
 ====== 
 1.	L. Yang, **R.M. Radway**, Y.-H. Chen, T.F. Wu, H. Liu, E. Ansari, V. Chandra, S. Mitra, E. Beigné, “Three-Dimensional Stacked Neural Network Accelerator Architectures for AR/VR Applications,” in IEEE Micro, vol. 42, no. 6, pp. 116-124, 1 Nov.-Dec. 2022.
 2.	**Equally Contributing^**: K. Prabhu^, A. Gural^, Z. F. Khan^, **R.M. Radway^**, M. Giordano, K. Koul, R. Doshi, J.W. Kustin, T. Liu, M.-F. Chang, G. Lallement, B. Murmann, S. Mitra, P. Raina., “CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2Mbyte On-Chip Foundry Resistive RAM for Efficient Training and Inference,” in IEEE Journal of Solid-State Circuits (JSSC), vol. 57., no. 4, pp. 1013-1026, April 2022.
@@ -30,29 +30,31 @@ Journals Publications
   
 Presentations & Posters
 ======
-1. **R.M. Radway**, S. Mitra, R. Howe, “NanoSystems for Abundant Data Computing”, Samsung-Stanford Research Initiative Workshop, Stanford, CA, September 2023.
-2. **R.M. Radway**, K. Prabhu, S. Mitra, P. Raina, “MINOTAUR: Transformer Edge Inference and Training that Scale Across Single- and Multi-Chip Systems”, TSMC Corporate Research Seminar Series, Virtual, May 2023.
-3. **R.M. Radway**, C. Gilardi, T. Srimani, “Ultra-Dense 3D Physical Design Unlock New Architectural Design Points with Large Benefits”, SLAC Nano/Micro Workshop, Stanford, CA, May 2023.
-4. **R.M. Radway**, M. Giordano, “CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference”, Samsung Metaverse Workshop, San Jose, CA, April 2023. 
-5. **R.M. Radway**, T. Srimani, “Foundry Monolithic 3D Technology Enables New Architectural Design Points with Large Benefits”, Stanford SystemX Fall Conference, Stanford, CA, November 2022.
-6. **R.M. Radway**, F. Peddinghaus, A. Symons, “Emulating Illusion Scaleup of 3D MOSAICs”, Robust Systems Group Seminar, Stanford, CA, November 2022.
-7. **R.M. Radway**, S. Mitra, “Illusion and Illusion Scaleup for 3D MOSAIC”, ACCESS Seminar Series, Virtual, June 2022.
-8. **R.M. Radway**, M. Giordano, “CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference”, Stanford System X Fall Conference, Virtual, November 2021. 
-9. **R.M. Radway**, Y.-N. Wang, “The Future of Hardware Technologies for Computing: N3XT 3D MOSAIC and Illusion Scaleup,” Robust Systems Group Seminar, Stanford, CA, November, 2021.
-10. S. Mitra, **R.M. Radway**, “21st-Century NanoSystems for Abundant-Data Computing”, ACESS Seminar Series, Virtual, June 2021. 
-11. **R.M. Radway**, “Illusion of Large On-Chip Memory for Neural Network Inference”, SystemX Fall Conference, Stanford, CA, November 2020. 
-12. **R.M. Radway**, “Illusion of Large On-Chip Memory for Neural Network Inference”, Robust Systems Group Seminar, Stanford, CA, November 2020. 
-13. **R.M. Radway**, “Illusion of Large On-Chip Memory for Neural Network Inference”, TSMC, Hsinchu, Taiwan, February 2020. 
-14. **R.M. Radway**, “Creating the Illusion of Large On-Chip Memory”, Robust And Testable Systems Seminar, Stanford, CA, January 2020. 
-15. **R.M. Radway**, “Illusion of Large On-Chip Memory for Neural Network Inference”, Xilinx, San Jose, CA, November 2019. 
-16. **R.M. Radway**, “N3XT Heterogenous Integration: From Lab to Fab”, Stanford SystemX Fall Conference, Stanford, CA, November 2019. 
-17. **R.M. Radway**, “Abundant Data Computing: The N3XT 1,000x”, Google, Mountain View, CA, October 2019.
-18. **R.M. Radway**, S. Mitra “RRAM Integrated on Silicon CMOS for AI Applications”, Emerging Memory and Artificial Intelligence Workshop, Stanford, CA, August 2019. 
-19. **R.M. Radway**, Andrew Bartolo “Abundant Data Computing: The N3XT 1,000x”, ARM, San Jose, CA, May 2019.
-20. Tony F. Wu, Binh Q. Le, **R.M. Radway**, et al. “A 43pJ/Cycle Non-Volatile Microcontroller with 4.7μs Shutdown/Wake-up Integrating 2.3-bit/Cell Resistive RAM and Resilience Techniques," Facebook, Menlo Park, CA, April 2018.
-21. **R.M. Radway** and Matthew Lee, “Compute Immersed in Memory: Analytical Performance Models for Multi-Chip Nanosystems”, Robust and Testable Systems Seminar, Stanford, CA, November 2018.  
-22. **R.M. Radway** “Fast Algorithms for Synapse Detection,” SuperUROP Final Presentations, MIT, Cambridge, MA, Apr 2015. 
-23.	**R.M. Radway** “Fast Algorithms for Automated Synapse Detection,” SuperUROP Poster Session, MIT, Cambridge, MA, Dec 2014. 
+1. **R. M. Radway**, T. Srimani, “New Iso-performance Foundry Monolithic 3D Transistor+Memory Unlocks Large Benefits vs. Conventional Silicon Transistor+Memory within the Same Footprint”, Stanford SystemX Fall Conference, Stanford, CA, November 2023.
+2. **R. M. Radway**, “MINOTAUR Illusion: Transformer Edge Inference and Training that Scale Across Single- and Multi-Chip Systems”, Stanford SystemX Fall Conference, Stanford, CA, November 2023.
+3. **R.M. Radway**, S. Mitra, R. Howe, “NanoSystems for Abundant Data Computing”, Samsung-Stanford Research Initiative Workshop, Stanford, CA, September 2023.
+4. **R.M. Radway**, K. Prabhu, S. Mitra, P. Raina, “MINOTAUR: Transformer Edge Inference and Training that Scale Across Single- and Multi-Chip Systems”, TSMC Corporate Research Seminar Series, Virtual, May 2023.
+5. **R.M. Radway**, C. Gilardi, T. Srimani, “Ultra-Dense 3D Physical Design Unlock New Architectural Design Points with Large Benefits”, SLAC Nano/Micro Workshop, Stanford, CA, May 2023.
+6. **R.M. Radway**, M. Giordano, “CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference”, Samsung Metaverse Workshop, San Jose, CA, April 2023. 
+7. **R.M. Radway**, T. Srimani, “Foundry Monolithic 3D Technology Enables New Architectural Design Points with Large Benefits”, Stanford SystemX Fall Conference, Stanford, CA, November 2022.
+8. **R.M. Radway**, F. Peddinghaus, A. Symons, “Emulating Illusion Scaleup of 3D MOSAICs”, Robust Systems Group Seminar, Stanford, CA, November 2022.
+9. **R.M. Radway**, S. Mitra, “Illusion and Illusion Scaleup for 3D MOSAIC”, ACCESS Seminar Series, Virtual, June 2022.
+10. **R.M. Radway**, M. Giordano, “CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference”, Stanford System X Fall Conference, Virtual, November 2021. 
+11. **R.M. Radway**, Y.-N. Wang, “The Future of Hardware Technologies for Computing: N3XT 3D MOSAIC and Illusion Scaleup,” Robust Systems Group Seminar, Stanford, CA, November, 2021.
+12. S. Mitra, **R.M. Radway**, “21st-Century NanoSystems for Abundant-Data Computing”, ACESS Seminar Series, Virtual, June 2021. 
+13. **R.M. Radway**, “Illusion of Large On-Chip Memory for Neural Network Inference”, SystemX Fall Conference, Stanford, CA, November 2020. 
+14. **R.M. Radway**, “Illusion of Large On-Chip Memory for Neural Network Inference”, Robust Systems Group Seminar, Stanford, CA, November 2020. 
+15. **R.M. Radway**, “Illusion of Large On-Chip Memory for Neural Network Inference”, TSMC, Hsinchu, Taiwan, February 2020. 
+16. **R.M. Radway**, “Creating the Illusion of Large On-Chip Memory”, Robust And Testable Systems Seminar, Stanford, CA, January 2020. 
+17. **R.M. Radway**, “Illusion of Large On-Chip Memory for Neural Network Inference”, Xilinx, San Jose, CA, November 2019. 
+18. **R.M. Radway**, “N3XT Heterogenous Integration: From Lab to Fab”, Stanford SystemX Fall Conference, Stanford, CA, November 2019. 
+19. **R.M. Radway**, “Abundant Data Computing: The N3XT 1,000x”, Google, Mountain View, CA, October 2019.
+20. **R.M. Radway**, S. Mitra “RRAM Integrated on Silicon CMOS for AI Applications”, Emerging Memory and Artificial Intelligence Workshop, Stanford, CA, August 2019. 
+21. **R.M. Radway**, Andrew Bartolo “Abundant Data Computing: The N3XT 1,000x”, ARM, San Jose, CA, May 2019.
+22. Tony F. Wu, Binh Q. Le, **R.M. Radway**, et al. “A 43pJ/Cycle Non-Volatile Microcontroller with 4.7μs Shutdown/Wake-up Integrating 2.3-bit/Cell Resistive RAM and Resilience Techniques," Facebook, Menlo Park, CA, April 2018.
+23. **R.M. Radway** and Matthew Lee, “Compute Immersed in Memory: Analytical Performance Models for Multi-Chip Nanosystems”, Robust and Testable Systems Seminar, Stanford, CA, November 2018.  
+24. **R.M. Radway** “Fast Algorithms for Synapse Detection,” SuperUROP Final Presentations, MIT, Cambridge, MA, Apr 2015. 
+25.	**R.M. Radway** “Fast Algorithms for Automated Synapse Detection,” SuperUROP Poster Session, MIT, Cambridge, MA, Dec 2014. 
 
 
 Presentations & Posters
