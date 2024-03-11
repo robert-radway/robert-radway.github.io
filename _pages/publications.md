@@ -17,7 +17,7 @@ Journal Publications
 ====== 
 1.	T. Srimani, A. Bechdolt, S. Choi, C. Gilardi, A. Kasperovich, S. Li, Q. Lin, M. Malakoutian, P. McEwen, **R.M. Radway**, D. Rich, A.C. Yu, S. Fuller, S. Achour, S. Chowdhury, H.-S.P. Wong, M.M. Shulaker, S. Mitra, “N3XT 3D Technology Foundations and Their Lab-to-Fab: Omni 3D Logic, Logic+Memory Ultra-Dense 3D, 3D Thermal Scaffolding,” 2023 IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, USA, 2023.
 2.	A. Wei, A. Levy, P.(L.) Yi, **R.M. Radway**, P. Raina, S. Mitra, S. Achour, “PBA: Percentile-Based Level Allocation for Multiple-Bits-Per-Cell RRAM,” 2023 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, USA, 2023. 
-3.	D. Rich, A. Kasperovich, M. Malakoutian, R. M. Radway, S. Hagiwara, T. Yoshikawa, S. Chowdhury, S. Mitra, “Thermal Scaffolding for Ultra-Dense 3D Integrated Circuits," 2023 60th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2023, pp. 1-6.
+3.	D. Rich, A. Kasperovich, M. Malakoutian, **R. M. Radway**, S. Hagiwara, T. Yoshikawa, S. Chowdhury, S. Mitra, “Thermal Scaffolding for Ultra-Dense 3D Integrated Circuits," 2023 60th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2023, pp. 1-6.
 4.	**Equally Contributing†**: T. Srimani†, A.C. Yu†, **R.M. Radway†**, D.T. Rich, M. Nelson, S. Wong, D. Murphy, S. Fuller, G. Hills, S. Mitra, M.M. Shulaker, “Foundry Monolithic 3D BEOL Transistor + Memory Stack: Iso-performance and Iso-footprint BEOL Carbon Nanotube FET+RRAM vs. FEOL Silicon FET+RRAM,” 2023 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits), Kyoto, Japan, 2023, pp. 1-2.
 5.	**Equally Contributing†**: T. Srimani†, **R.M. Radway†**, J. Kim^, K. Prabhu, D. Rich, C. Gilardi, P. Raina, M. Shulaker, S.K. Lim, S. Mitra, “Ultra-Dense 3D Physical Design Unlocks New Architectural Design Points with Large Benefits,” 2023 Design, Automation & Test in Europe Conference & Exhibition (DATE), Antwerp, Belgium, 2023, pp. 1-6.
 6.	L.R. Upton, G. Lallement, M. D Scott, J. Taylor, **R.M. Radway**, D. Rich, M. Nelson, S. Mitra, B. Murmann., “Testbench on a Chip: A Yield Test Vehicle for Resistive Memory Devices,” 2023 24th International Symposium on Quality Electronic Design (ISQED), San Francisco, CA, USA, 2023, pp. 1-7.
@@ -63,4 +63,4 @@ Book Chapters
 
 Master’s Thesis
 ======
-1.	R.M. Radway, “Near junction thermal management of GaN HEMTs via wafer bonding,” Master’s thesis, Massachusetts Institute of Technology, 2017, https://dspace.mit.edu/handle/1721.1/113116.
+1.	**R.M. Radway**, “Near junction thermal management of GaN HEMTs via wafer bonding,” Master’s thesis, Massachusetts Institute of Technology, 2017, https://dspace.mit.edu/handle/1721.1/113116.
