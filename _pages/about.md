@@ -8,13 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-# Robert M. Radway
-
-[Here is my short-form resume.](../files/Radway_RM_Resume.pdf)
-
-Brief Bio (in the third person)
+Brief Bio
 ------------
-Robert M. Radway is a Ph.D. candidate in Electrical Engineering at Stanford University supervised by Prof. Subhasish Mitra with expected graduation in June 2024. Before Stanford, he received a M.Eng. (advised by Prof. Tomás Palacios) and B.S. in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology. Robert's Ph.D. has been supported through the Stanford Graduate Fellowship (SGF – as a Cadence Design Systems Fellow) and DARPA Three-Dimensional System-on-Chip (3DSoC – a ~$100M program to establish monolithic 3D integration of heterogeneous nanotechnologies in a US foundry). His research interests include new multiplicative scaling approaches on 3D MOSAICs (**M**onolithic, **S**tacked, **A**ssembled **IC**s), VLSI chip demos of circuits and systems co-optimized with heterogenous technologies, and heterogeneous 2.5D/3D and monolithic 3D integration. 
+Robert M. Radway is a Ph.D. Candidate in Electrical Engineering at Stanford University advised by Prof. Subhasish Mitra. He received his M.Eng. and B.S. in Electrical Engineering and Computer Science from MIT. His research focuses on building hardware systems leveraging heterogeneous memory, logic, and 3D integration for large benefits. His research contributions include the first published non-volatile Resistive RAM (RRAM) systems, the first edge AI/ML chips using foundry RRAM for full on-chip inference and training, multi-chip systems to efficiently scaleup to larger models, and the first foundry monolithic 3D hardware delivering large benefits. His honors include the Stanford Graduate Fellowship, the Symposium on VLSI Circuits Best Student Paper Award, and the Symposium on VLSI Technology Best Student Paper Award.
 
 Research Interests
 --------------
