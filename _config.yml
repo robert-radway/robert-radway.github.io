@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Robert M. Radway" 
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate in Electrical Engineering"
+  bio              : "Assistant Professor of Electrical & Systems Engineering"
   location         : 
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Ec_V2HwAAAAJ&hl=en"
-  email            : "radway@stanford.edu"
+  email            : "radway@seas.upenn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
