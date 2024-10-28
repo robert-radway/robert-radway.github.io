@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Robert M. Radway" 
-  avatar           : "Robert-Radway-Crop.png"
+  avatar           : "Robert-Radway-Crop.jpg"
   bio              : "Assistant Professor of Electrical & Systems Engineering"
   location         : "Philadelphia, PA"
-  employer         : "School of Engineering & Applied Sciences, University of Pennsylvania"
+  employer         : "University of Pennsylvania"
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Ec_V2HwAAAAJ&hl=en"
   email            : "radway@seas.upenn.edu"
