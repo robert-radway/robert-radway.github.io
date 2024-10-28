@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Robert M. Radway" 
-  avatar           : "profile.png"
+  avatar           : "Robert-Radway-Crop.png"
   bio              : "Assistant Professor of Electrical & Systems Engineering"
-  location         : 
-  employer         :
+  location         : "Philadelphia, PA"
+  employer         : "School of Engineering & Applied Sciences, University of Pennsylvania"
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Ec_V2HwAAAAJ&hl=en"
   email            : "radway@seas.upenn.edu"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : #"tathagata-srimani-85723458"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3393-5489"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
